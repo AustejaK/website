@@ -4,7 +4,7 @@ title: ""
 
 <div class="bio-grid">
 <div>
-<img src="photo.jpeg" alt="Austėja Kažemekaitytė">
+<img src="photo.jpg" alt="Austėja Kažemekaitytė">
 </div>
 <div>
 
