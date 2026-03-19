@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Austėja Kažemekaitytė"
+  navbar:
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      # - href: teaching.qmd
+      #   text: Teaching
+  page-footer:
+    center: "© Austėja Kažemekaitytė"
+
+format:
+  html:
+    theme: flatly
+    css: custom.css
+    toc: false
+    page-layout: article

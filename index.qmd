@@ -1,0 +1,40 @@
+---
+title: ""
+---
+
+<div class="bio-grid">
+<div>
+<img src="photo.jpg" alt="Austėja Kažemekaitytė">
+</div>
+<div>
+
+<div class="bio-name">Austėja Kažemekaitytė</div>
+<div class="bio-role">Postdoctoral Fellow · University of Trento</div>
+
+I am a behavioural and experimental economist. My research focuses primarily on sustainability and consumer decision making. I design, program, and run lab, online, and lab-in-the-field experiments, and I am currently part of the [VISIONARY](https://visionary-project.eu) project (EU H2020).
+
+<div class="interests">
+<span class="interest-tag">Behavioural economics</span>
+<span class="interest-tag">Experimental methods</span>
+<span class="interest-tag">Sustainable food choice</span>
+<span class="interest-tag">Consumer decision making</span>
+<span class="interest-tag">Discrete choice experiments</span>
+<span class="interest-tag">Psychophysiological measures</span>
+</div>
+
+<div class="bio-links">
+<span class="bio-email">a.kazemekaityte[at]unitn.it</span>
+·
+<a href="https://scholar.google.com/citations?hl=lt&user=lYP-9RcAAAAJ">Google Scholar</a>
+·
+<a href="https://orcid.org/0000-0001-9036-418X">ORCID</a>
+·
+<a href="https://www.linkedin.com/in/austejakazemekaityte/">LinkedIn</a>
+·
+<a href="https://github.com/AustejaK">GitHub</a>
+·
+<a class="cv-btn" href="CV.pdf" download>Download CV</a>
+</div>
+
+</div>
+</div>

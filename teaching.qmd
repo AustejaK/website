@@ -1,0 +1,35 @@
+---
+title: "Teaching"
+---
+
+I have served as a teaching assistant at the following institutions.
+
+## Lappeenranta-Lahti University of Technology LUT
+
+<div class="teach-item">
+<strong>Behavioural Economics</strong> (Master) · 2023–2026 · Teaching Assistant
+</div>
+
+## University of Trento
+
+<div class="teach-item">
+<strong>Public Economics</strong> (Master) · 2025 · Teaching Assistant
+</div>
+
+<div class="teach-item">
+<strong>Behavioural Economics</strong> (Master & PhD) · 2020–2025 · Teaching Assistant
+</div>
+
+<div class="teach-item">
+<strong>Market Analysis</strong> (Undergraduate) · 2021–2022 · Teaching Assistant
+</div>
+
+<div class="teach-item">
+<strong>Introduction to Economics</strong> (Undergraduate) · 2020–2021 · Teaching Assistant
+</div>
+
+## Guest Lectures
+
+<div class="teach-item">
+<strong>Behavioural Economics</strong>, University of Trento · 2020
+</div>

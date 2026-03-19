@@ -1,0 +1,278 @@
+/* =============================================
+   CUSTOM STYLES — austejakazemekaityte.com
+   Palette: Payne's gray + dusty rose
+   ============================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Jost:wght@300;400;500&display=swap');
+
+:root {
+  --paynes:       #546e7a;
+  --paynes-dark:  #37474f;
+  --paynes-light: #eceff1;
+  --rose:         #b07a8a;
+  --rose-light:   #f5eef1;
+  --ivory:        #fafafa;
+  --muted:        #78909c;
+  --border:       #cfd8dc;
+  --text:         #263238;
+}
+
+/* --- Base --- */
+body {
+  font-family: 'Jost', sans-serif;
+  font-size: 17px;
+  color: var(--text);
+  line-height: 1.8;
+  background: var(--ivory);
+  font-weight: 300;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Cormorant Garamond', serif;
+  color: var(--paynes-dark);
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+
+strong { font-weight: 500; }
+
+/* --- Navbar: dark Payne's gray with rose underline --- */
+.navbar {
+  background-color: var(--paynes-dark) !important;
+  border-bottom: 3px solid var(--rose) !important;
+  box-shadow: none;
+}
+
+.navbar-brand {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: #eceff1 !important;
+  letter-spacing: 0.04em;
+}
+
+.navbar-nav > li > a {
+  font-family: 'Jost', sans-serif;
+  font-weight: 400;
+  font-size: 0.82rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #90a4ae !important;
+  transition: color 0.2s;
+}
+
+.navbar-nav > li > a:hover,
+.navbar-nav > li.active > a {
+  color: #fff !important;
+  background: transparent !important;
+}
+
+/* --- Page container --- */
+.main-container {
+  max-width: 800px;
+  padding-top: 3rem;
+  padding-bottom: 5rem;
+}
+
+/* --- Page title (Research, Teaching pages) --- */
+h1.title {
+  font-size: 2.4rem;
+  font-style: italic;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+/* --- Section headers --- */
+h2 {
+  font-size: 1.5rem;
+  color: var(--paynes);
+  margin-top: 3rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid var(--paynes-light);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2.5rem 0;
+}
+
+/* --- Links --- */
+a { color: var(--paynes); text-decoration: none; }
+a:hover { color: var(--rose); }
+
+/* --- Bio name --- */
+.bio-name {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2rem;
+  font-weight: 500;
+  color: var(--paynes-dark);
+  letter-spacing: 0.02em;
+  margin: 0 0 0.15rem 0;
+  line-height: 1.2;
+}
+
+/* --- Role line: rose colored --- */
+.bio-role {
+  font-family: 'Jost', sans-serif;
+  font-size: 0.82rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--rose);
+  font-weight: 400;
+  margin: 0 0 0.8rem 0;
+}
+
+/* --- Bio grid --- */
+.bio-grid {
+  display: grid;
+  grid-template-columns: 175px 1fr;
+  gap: 2.5rem;
+  align-items: start;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.bio-grid img {
+  width: 175px;
+  border-radius: 3px;
+  filter: grayscale(15%);
+  border: 1px solid var(--border);
+}
+
+/* --- Bio links row --- */
+.bio-links {
+  margin-top: 1rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--paynes-light);
+  font-size: 0.85rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.2rem;
+  align-items: center;
+}
+
+.bio-links a { color: var(--paynes); font-weight: 400; }
+.bio-links a:hover { color: var(--rose); }
+
+.bio-email {
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+
+/* --- CV button: rose filled --- */
+.cv-btn {
+  display: inline-block;
+  background: var(--rose);
+  color: #fff !important;
+  border: none;
+  padding: 3px 12px;
+  border-radius: 2px;
+  font-family: 'Jost', sans-serif;
+  font-weight: 400;
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-decoration: none !important;
+  transition: background 0.2s;
+  vertical-align: middle;
+}
+
+.cv-btn:hover {
+  background: var(--paynes-dark);
+  color: #fff !important;
+}
+
+/* --- Interests tags --- */
+.interests {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+}
+
+.interest-tag {
+  background: var(--paynes-light);
+  color: var(--paynes-dark);
+  font-family: 'Jost', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  padding: 4px 12px;
+  border-radius: 2px;
+  border: 1px solid var(--border);
+}
+
+/* --- Publication entries --- */
+.pub {
+  border-left: 2px solid var(--paynes-light);
+  padding: 0.7rem 0 0.7rem 1.1rem;
+  margin-bottom: 1.4rem;
+  transition: border-color 0.2s;
+}
+
+.pub:hover { border-left-color: var(--rose); }
+
+.pub-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: var(--paynes-dark);
+  line-height: 1.4;
+}
+
+.pub-authors {
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin: 0.2rem 0;
+  font-weight: 300;
+}
+
+.pub-journal {
+  font-size: 0.9rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* --- Badges --- */
+.badge {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 500;
+  padding: 2px 7px;
+  border-radius: 2px;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+  margin-left: 7px;
+  text-transform: uppercase;
+  font-family: 'Jost', sans-serif;
+}
+
+.badge-published   { background: var(--paynes); color: #fff; }
+.badge-forthcoming { background: var(--paynes-dark); color: #fff; }
+.badge-rr          { background: var(--rose); color: #fff; }
+.badge-review      { background: #8e7aa3; color: #fff; }
+.badge-wip         { background: var(--muted); color: #fff; }
+
+/* --- Teaching blocks --- */
+.teach-item {
+  margin-bottom: 0.9rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--paynes-light);
+}
+
+.teach-item strong { color: var(--paynes-dark); font-weight: 500; }
+
+/* --- Footer --- */
+.nav-footer {
+  font-size: 0.82rem;
+  color: var(--muted);
+  letter-spacing: 0.04em;
+  border-top: 1px solid var(--border);
+}
+
+/* --- Responsive --- */
+@media (max-width: 600px) {
+  .bio-grid { grid-template-columns: 1fr; }
+  .bio-grid img { width: 130px; }
+}
