@@ -12,7 +12,7 @@ title: "Research"
 
 <div class="pub">
 <div class="pub-title">Mechanisms behind covid-19 scepticism among socially marginalised individuals in Europe</div>
-<div class="pub-authors">Nero, K., Orrù, K., Nævestad, T.-O., Savadori, L., Kažemekaitytė, A., et al. (2023)</div>
+<div class="pub-authors">Nero, K., Orrù, K., Nævestad, T.-O., Olson, A., Airola, M., Savadori, L., Kažemekaitytė, A., Lovasz, G., & Kajganovic, J. (2023)</div>
 <div class="pub-journal">Journal of Risk Research, 26(6), 675–696 · <a href="https://doi.org/10.1080/13669877.2023.2208119">doi:10.1080/13669877.2023.2208119</a></div>
 </div>
 
@@ -24,7 +24,7 @@ title: "Research"
 
 <div class="pub">
 <div class="pub-title">Resilience in care organisations: challenges in maintaining support for vulnerable people in Europe during the covid-19 pandemic</div>
-<div class="pub-authors">Orrù, K., Nero, K., Nævestad, T.-O., et al. (2021)</div>
+<div class="pub-authors">Orrù, K., Nero, K., Nævestad, T.-O., Schieffelers, A., Olson, A., Airola, M., et al. (2021)</div>
 <div class="pub-journal">Disasters, 45, S48–S75 · <a href="https://doi.org/10.1111/disa.12526">doi:10.1111/disa.12526</a></div>
 </div>
 
@@ -36,13 +36,13 @@ title: "Research"
 
 <div class="pub">
 <div class="pub-title">Covid-19 information disorder: six types of harmful information during the pandemic in Europe</div>
-<div class="pub-authors">Hansson, S., Orrù, K., Torpan, S., Kažemekaitytė, A., et al. (2021)</div>
+<div class="pub-authors">Hansson, S., Orrù, K., Torpan, S., Bäck, A., Kažemekaitytė, A., Meyer, S. F., et al. (2021)</div>
 <div class="pub-journal">Journal of Risk Research · <a href="https://doi.org/10.1080/13669877.2020.1871058">doi:10.1080/13669877.2020.1871058</a></div>
 </div>
 
 <div class="pub">
 <div class="pub-title">Handling false information in emergency management: a cross-national comparative study of European practices</div>
-<div class="pub-authors">Torpan, S., Hansson, S., Rhinard, M., Kažemekaitytė, A., et al. (2021)</div>
+<div class="pub-authors">Torpan, S., Hansson, S., Rhinard, M., Kažemekaitytė, A., Jukarainen, P., Meyer, S. F., et al. (2021)</div>
 <div class="pub-journal">International Journal of Disaster Risk Reduction · <a href="https://doi.org/10.1016/j.ijdrr.2021.102151">doi:10.1016/j.ijdrr.2021.102151</a></div>
 </div>
 
@@ -72,24 +72,37 @@ title: "Research"
 <div class="pub-authors">Magnapera, C., Kažemekaitytė, A., Raffaelli, R., Nayga Jr., R. M., & Cerroni, S. (2025)</div>
 </div>
 
+<div class="pub">
+<div class="pub-title">Guideline for measuring psychophysiological responses <span class="badge badge-wip">Report</span></div>
+<div class="pub-authors">Kažemekaitytė, A., Dean, P., Bermudez, A., van Dommelen, W., & Cerroni, S. (2023)</div>
+<div class="pub-journal">Report for Horizon Europe project COMFOCUS</div>
+</div>
+
 ---
 
 ## Crowd Science
 
 <div class="pub">
 <div class="pub-title">The robustness of mental accounting: a global perspective <span class="badge badge-forthcoming">Forthcoming</span></div>
-<div class="pub-authors">Priolo, G., Stablum, F., Vacondio, M., et al. (2026)</div>
+<div class="pub-authors">Priolo, G., Stablum, F., Vacondio, M., D’Ambrogio, S., Caserotti, M., Conte, B., De Roni, P.,
+Du Plooy, H., Grillo, V. D., Mastromatteo, L. Y., Tedaldi, E., Toscano, F., Aguilar-Armijo, J.,
+Ahmadi Ghomroudi, P., Al Rai, A., Alexa, L., Andersen, M. H., Andersson, P. A., Aoun Barakat,
+K., . . . Rubaltelli, E. (2026).</div>
 <div class="pub-journal">Journal of Consumer Research (conditionally accepted)</div>
 </div>
 
 <div class="pub">
 <div class="pub-title">Investigating the analytical robustness of the social and behavioural sciences <span class="badge badge-forthcoming">Forthcoming</span></div>
-<div class="pub-authors">Aczel, B., Szaszi, B., Clelland, H. T., et al. (2026)</div>
+<div class="pub-authors">Aczel, B., Szaszi, B., Clelland, H. T., Kovacs, M., Holzmeister, F., van Ravenzwaaij, D., Schulz-
+K¨umpel, H., Hoﬀmann, S., Nilsonne, G., Kosa, L., Torma, Z. A., Abdelfatah, Y., Aberson, C. L.,
+Acar, O. A., Acem, E., Adamkovic, M., Adamovich, T., Adiasto, K., Ahnstr¨om, L., . . . Nosek, B. A.
+(2026). Investigating the analytical robustness of the social and behavioural sciences. Nature. (in
+print)</div>
 <div class="pub-journal">Nature</div>
 </div>
 
 <div class="pub">
-<div class="pub-title">Collective Evidence on Behavioral Interventions Targeting Carbon Pricing Support: A Many-Designs Approach with 55 Studies <span class="badge badge-review">Working Paper</span></div>
+<div class="pub-title">Collective Evidence on Behavioral Interventions Targeting Carbon Pricing Support: A Many-Designs Approach with 55 Studies <span class="badge badge-review">Under Review</span></div>
 <div class="pub-authors">Huber, J., Holzknecht, A., Schwaiger, R., et al. (2026)</div>
 </div>
 
@@ -111,7 +124,6 @@ title: "Research"
 <div class="pub-title">Food knowledge and food choice relationship in sustainability and health domains</div>
 <div class="pub-authors">with Quell, D., Faccioli, M., & Raffaelli, R.</div>
 </div>
-
 
 <div class="pub">
 <div class="pub-title">Choice matching in discrete choice experiments</div>
