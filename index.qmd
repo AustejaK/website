@@ -23,7 +23,7 @@ I am a behavioural and experimental economist. My research focuses primarily on 
 </div>
 
 <div class="bio-links">
-<span class="bio-email">a.kazemekaityte[at]unitn.it</span>
+<span class="bio-email">austeja.kazemekaityte[at]unibz.it</span>
 ·
 <a href="https://scholar.google.com/citations?hl=lt&user=lYP-9RcAAAAJ">Google Scholar</a>
 ·
